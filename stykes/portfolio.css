@@ -130,7 +130,7 @@ main {
     color: #181818;
     text-align: center;
     margin-bottom: 30px;
-    margin-top:130px ;
+    margin-top: 130px;
 }
 
 .what-i-do-p {
@@ -166,4 +166,112 @@ main {
     margin-bottom: 20px;
 }
 
-.skill-discription {}
+.skill-discription {
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+
+.section-title {
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 48px;
+    color: #181818;
+    margin-top: 130px;
+    text-align: center;
+
+}
+
+.resume-style {
+    display: flex;
+    gap: 71px;
+}
+
+.edu {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 41px;
+    color: #474747;
+    margin-top: 113px;
+
+}
+
+.edu1 {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 34px;
+    color: #474747;
+    margin-top: 30px;
+    margin-bottom: 10px;
+
+
+}
+
+.edu2 {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    color: #757575;
+
+
+}
+
+.edu3 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #757575;
+    margin-top: 14px;
+
+}
+
+.edu4 {
+    margin-bottom: 30px;
+}
+
+.button-sit {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 170px;
+    margin-bottom: 139px;
+}
+
+
+.contact {
+    display: flex;
+    gap: 117px;
+    background-color: #FFF8F3;
+    padding: 130px 200px;
+}
+
+.contact input{
+    margin-bottom: 23px;
+    margin-bottom: 18px 30px;
+    }
+.contact input[type="text"], input[type="email"], textarea {
+    margin-bottom:24px ;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
+.contact2{
+    margin-bottom:20px ;
+}
+
+.contact3 {
+    margin-bottom: 24px;
+}
+
+.para-icon-b {
+    margin-bottom: 30px;
+    font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+color: #474747;
+
+
+}
+
+ .contact a {
+    text-decoration: none;
+ }
